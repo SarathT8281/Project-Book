@@ -1,0 +1,21 @@
+.main{
+    height: 110px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+.head{
+    font-size: 70px;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.bt{
+    margin-left: 50px;
+    margin: 10px;
+    padding: 15px;
+   
+}
+.bodi{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}

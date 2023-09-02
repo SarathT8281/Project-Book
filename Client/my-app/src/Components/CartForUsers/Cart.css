@@ -1,0 +1,16 @@
+.next{
+    border: 30px solid rgb(109, 109, 173);
+    width: 75%;
+    font-size: 20px;
+    background-color: #fff;
+}
+.btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+
+}
+.newbtns{
+    margin: 5px;
+}

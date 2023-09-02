@@ -1,0 +1,33 @@
+*{
+    margin:  0%;
+    padding: 0%;
+   
+}
+.sidebar{
+    width: 280px;
+    height: 750px;
+    background-color: black;
+    border-radius: 0 30px 30px 0;
+    background: rgb(1,18,18);
+background: linear-gradient(0deg, rgba(1,18,18,1) 0%, rgba(232, 16, 149, 0.959) 100%);
+padding: 10px;
+}
+.books{
+    color: aliceblue;
+ padding-top: 30px;
+ padding-left: 1px;
+}
+.bs{
+    color: yellow;
+     border: 5px solid white;
+     font-weight: bolder;
+     font-size: 200%;
+    
+}
+h3{ color: #fff;
+
+}
+Link{
+    text-decoration: none;
+    color: #fff;
+}
